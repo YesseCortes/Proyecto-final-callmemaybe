@@ -1,5 +1,8 @@
 # CallMeMaybe – Telecom Operator Inefficiency Analysis
 
+**Live dashboard:** https://https://public.tableau.com/views/Callmemaybe_17579587067620/DashboardCallMeMaybe?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Project Description
 This project analyzes call center performance for the virtual telecom service **CallMeMaybe**, aiming to identify inefficiencies in operators and customer service.
 
